@@ -8,3 +8,4 @@ Development standardization for developer.
 
 First starts with springboot and java projects.
 
+Python clients will be used for k8s management
