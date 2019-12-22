@@ -1,6 +1,6 @@
 # okyanusd
 
-Okyanusd is opensource DEVOPS environment over debian based linux like ubuntu with kubernetes, docker, github, registry, serverless projects.
+Okyanusd is opensource DEVOPS environment over debian based linux like ubuntu with kubernetes, docker, git, registry, serverless projects.
 
 Can create templates and manage k8s clusters. 
 
