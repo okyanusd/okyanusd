@@ -1,6 +1,6 @@
 # okyanusd
 
-okyanus is Turkish word which means ocean in English. K8s and Docker will be swim on okyanusd.
+okyanus is Turkish word which means ocean in English. K8s and Docker will swim on okyanusd.
 
 okyanusd is opensource DEVOPS environment over debian based linux like ubuntu with kubernetes, docker, git, registry, serverless projects.
 
